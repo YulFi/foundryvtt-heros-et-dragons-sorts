@@ -1,0 +1,21 @@
+{
+    "name": "heros-et-dragons-sorts",
+    "title": "Héros et Dragons - Sorts",
+    "description": "Liste des sorts pour Héros et Dragons",
+    "author": "Rodskin",
+    "version": "0.0.1",
+    "compatibleCoreVersion": "0.5.3",
+    "minimumCoreVersion": "0.5.3",
+    "url": "https://github.com/rodskin",
+    "packs": [
+        {
+            "name": "h-d-grimoire",
+            "label": "H&D - Grimoire",
+            "path": "packs/h-d-grimoire.db",
+            "entity": "Item",
+            "module": "heros-et-dragons-sorts"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
